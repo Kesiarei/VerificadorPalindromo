@@ -40,4 +40,3 @@ Sinta-se à vontade para expandir o projeto, adicionar mais funcionalidades ou m
 Divirta-se programando e aprimorando suas habilidades em Python! 🚀
 
 ---
-Esse modelo inclui informações sobre o que é um palíndromo, os requisitos do desafio, exemplos de uso, instruções de teste e considerações finais. Você pode personalizar e adicionar mais informações conforme necessário para o seu projeto. Certifique-se de que o README esteja sempre atualizado e seja claro para que outras pessoas possam entender o propósito e funcionamento do projeto
